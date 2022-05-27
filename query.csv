@@ -1,0 +1,482 @@
+subject,subjectLabel,rgb,subjects,subjectsLabel
+http://www.wikidata.org/entity/Q960,Тыва,,,
+http://www.wikidata.org/entity/Q1914,Карелия,,,
+http://www.wikidata.org/entity/Q2073,Республика Коми,,,
+http://www.wikidata.org/entity/Q3734,Адыгея,,,
+http://www.wikidata.org/entity/Q3953,Калмыкия,,,
+http://www.wikidata.org/entity/Q5118,Дагестан,,,
+http://www.wikidata.org/entity/Q5187,Чечня,,,
+http://www.wikidata.org/entity/Q5219,Ингушетия,,,
+http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания,,,
+http://www.wikidata.org/entity/Q5267,Кабардино-Балкария,,,
+http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия,,,
+http://www.wikidata.org/entity/Q5340,Мордовия,,,
+http://www.wikidata.org/entity/Q5422,Удмуртия,,,
+http://www.wikidata.org/entity/Q5446,Марий Эл,,,
+http://www.wikidata.org/entity/Q5466,Чувашия,,,
+http://www.wikidata.org/entity/Q5481,Татарстан,,,
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,,,
+http://www.wikidata.org/entity/Q5971,Республика Алтай,,,
+http://www.wikidata.org/entity/Q6543,Хакасия,,,
+http://www.wikidata.org/entity/Q6605,Якутия,,,
+http://www.wikidata.org/entity/Q6809,Бурятия,,,
+http://www.wikidata.org/entity/Q15966495,Республика Крым,,,
+http://www.wikidata.org/entity/Q649,Москва,,,
+http://www.wikidata.org/entity/Q656,Санкт-Петербург,,,
+http://www.wikidata.org/entity/Q7525,Севастополь,,,
+http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ,,,
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,,,
+http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ,,,
+http://www.wikidata.org/entity/Q7984,Чукотский автономный округ,,,
+http://www.wikidata.org/entity/Q7730,Еврейская автономная область,,,
+http://www.wikidata.org/entity/Q3680,Краснодарский край,,,
+http://www.wikidata.org/entity/Q4341,Приморский край,,,
+http://www.wikidata.org/entity/Q5207,Ставропольский край,,,
+http://www.wikidata.org/entity/Q5400,Пермский край,,,
+http://www.wikidata.org/entity/Q5942,Алтайский край,,,
+http://www.wikidata.org/entity/Q6563,Красноярский край,,,
+http://www.wikidata.org/entity/Q6838,Забайкальский край,,,
+http://www.wikidata.org/entity/Q7788,Хабаровский край,,,
+http://www.wikidata.org/entity/Q7948,Камчатский край,,,
+http://www.wikidata.org/entity/Q1697,Московская область,,,
+http://www.wikidata.org/entity/Q1727,Самарская область,,,
+http://www.wikidata.org/entity/Q1749,Калининградская область,,,
+http://www.wikidata.org/entity/Q1759,Мурманская область,,,
+http://www.wikidata.org/entity/Q1875,Архангельская область,,,
+http://www.wikidata.org/entity/Q2015,Вологодская область,,,
+http://www.wikidata.org/entity/Q2191,Ленинградская область,,,
+http://www.wikidata.org/entity/Q2218,Псковская область,,,
+http://www.wikidata.org/entity/Q2240,Новгородская область,,,
+http://www.wikidata.org/entity/Q2246,Нижегородская область,,,
+http://www.wikidata.org/entity/Q2292,Тверская область,,,
+http://www.wikidata.org/entity/Q2347,Смоленская область,,,
+http://www.wikidata.org/entity/Q2448,Ярославская область,,,
+http://www.wikidata.org/entity/Q2596,Костромская область,,,
+http://www.wikidata.org/entity/Q2654,Ивановская область,,,
+http://www.wikidata.org/entity/Q2702,Владимирская область,,,
+http://www.wikidata.org/entity/Q2753,Рязанская область,,,
+http://www.wikidata.org/entity/Q2792,Тульская область,,,
+http://www.wikidata.org/entity/Q2810,Брянская область,,,
+http://www.wikidata.org/entity/Q2842,Калужская область,,,
+http://www.wikidata.org/entity/Q3129,Орловская область,,,
+http://www.wikidata.org/entity/Q3178,Курская область,,,
+http://www.wikidata.org/entity/Q3329,Белгородская область,,,
+http://www.wikidata.org/entity/Q3447,Воронежская область,,,
+http://www.wikidata.org/entity/Q3510,Липецкая область,,,
+http://www.wikidata.org/entity/Q3550,Тамбовская область,,,
+http://www.wikidata.org/entity/Q3573,Ростовская область,,,
+http://www.wikidata.org/entity/Q3819,Волгоградская область,,,
+http://www.wikidata.org/entity/Q3941,Астраханская область,,,
+http://www.wikidata.org/entity/Q5334,Саратовская область,,,
+http://www.wikidata.org/entity/Q5338,Оренбургская область,,,
+http://www.wikidata.org/entity/Q5387,Кировская область,,,
+http://www.wikidata.org/entity/Q5462,Свердловская область,,,
+http://www.wikidata.org/entity/Q5545,Пензенская область,,,
+http://www.wikidata.org/entity/Q5634,Ульяновская область,,,
+http://www.wikidata.org/entity/Q5714,Челябинская область,,,
+http://www.wikidata.org/entity/Q5741,Курганская область,,,
+http://www.wikidata.org/entity/Q5824,Тюменская область,,,
+http://www.wikidata.org/entity/Q5835,Омская область,,,
+http://www.wikidata.org/entity/Q5851,Новосибирская область,,,
+http://www.wikidata.org/entity/Q5884,Томская область,,,
+http://www.wikidata.org/entity/Q6076,Кемеровская область,,,
+http://www.wikidata.org/entity/Q6585,Иркутская область,,,
+http://www.wikidata.org/entity/Q6886,Амурская область,,,
+http://www.wikidata.org/entity/Q7797,Сахалинская область,,,
+http://www.wikidata.org/entity/Q7971,Магаданская область,,,
+http://www.wikidata.org/entity/Q7984,Чукотский автономный округ,9932CC,http://www.wikidata.org/entity/Q7971,Магаданская область
+http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ
+http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра,9932CC,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ,9932CC,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q7984,Чукотский автономный округ,9932CC,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q7984,Чукотский автономный округ,9932CC,http://www.wikidata.org/entity/Q7948,Камчатский край
+http://www.wikidata.org/entity/Q7730,Еврейская автономная область,ced685,http://www.wikidata.org/entity/Q6886,Амурская область
+http://www.wikidata.org/entity/Q7730,Еврейская автономная область,ced685,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q5400,Пермский край,7495db,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q960,Тыва
+http://www.wikidata.org/entity/Q3680,Краснодарский край,7495db,http://www.wikidata.org/entity/Q3573,Ростовская область
+http://www.wikidata.org/entity/Q3680,Краснодарский край,7495db,http://www.wikidata.org/entity/Q3734,Адыгея
+http://www.wikidata.org/entity/Q3680,Краснодарский край,7495db,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q3680,Краснодарский край,7495db,http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q3573,Ростовская область
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q3680,Краснодарский край
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q3953,Калмыкия
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q5118,Дагестан
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q5187,Чечня
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q5267,Кабардино-Балкария
+http://www.wikidata.org/entity/Q5207,Ставропольский край,7495db,http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия
+http://www.wikidata.org/entity/Q5400,Пермский край,7495db,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q4341,Приморский край
+http://www.wikidata.org/entity/Q3680,Краснодарский край,7495db,http://www.wikidata.org/entity/Q15966495,Республика Крым
+http://www.wikidata.org/entity/Q5400,Пермский край,7495db,http://www.wikidata.org/entity/Q5422,Удмуртия
+http://www.wikidata.org/entity/Q5400,Пермский край,7495db,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q5400,Пермский край,7495db,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5942,Алтайский край,7495db,http://www.wikidata.org/entity/Q5851,Новосибирская область
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q4341,Приморский край,7495db,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q5942,Алтайский край,7495db,http://www.wikidata.org/entity/Q5971,Республика Алтай
+http://www.wikidata.org/entity/Q5942,Алтайский край,7495db,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6543,Хакасия
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6585,Иркутская область
+http://www.wikidata.org/entity/Q6563,Красноярский край,7495db,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q6838,Забайкальский край,7495db,http://www.wikidata.org/entity/Q6585,Иркутская область
+http://www.wikidata.org/entity/Q6838,Забайкальский край,7495db,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q6838,Забайкальский край,7495db,http://www.wikidata.org/entity/Q6809,Бурятия
+http://www.wikidata.org/entity/Q6838,Забайкальский край,7495db,http://www.wikidata.org/entity/Q6886,Амурская область
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q6886,Амурская область
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q7730,Еврейская автономная область
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q7797,Сахалинская область
+http://www.wikidata.org/entity/Q7788,Хабаровский край,7495db,http://www.wikidata.org/entity/Q7971,Магаданская область
+http://www.wikidata.org/entity/Q7948,Камчатский край,7495db,http://www.wikidata.org/entity/Q7797,Сахалинская область
+http://www.wikidata.org/entity/Q7948,Камчатский край,7495db,http://www.wikidata.org/entity/Q7971,Магаданская область
+http://www.wikidata.org/entity/Q7948,Камчатский край,7495db,http://www.wikidata.org/entity/Q7984,Чукотский автономный округ
+http://www.wikidata.org/entity/Q649,Москва,e8a2e8,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q656,Санкт-Петербург,e8a2e8,http://www.wikidata.org/entity/Q2191,Ленинградская область
+http://www.wikidata.org/entity/Q649,Москва,e8a2e8,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q7525,Севастополь,e8a2e8,http://www.wikidata.org/entity/Q15966495,Республика Крым
+http://www.wikidata.org/entity/Q3953,Калмыкия,7FFF00,http://www.wikidata.org/entity/Q3573,Ростовская область
+http://www.wikidata.org/entity/Q5340,Мордовия,7FFF00,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q1914,Карелия,7FFF00,http://www.wikidata.org/entity/Q1759,Мурманская область
+http://www.wikidata.org/entity/Q1914,Карелия,7FFF00,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q1914,Карелия,7FFF00,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q1914,Карелия,7FFF00,http://www.wikidata.org/entity/Q2191,Ленинградская область
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ
+http://www.wikidata.org/entity/Q5340,Мордовия,7FFF00,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q5446,Марий Эл,7FFF00,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q5466,Чувашия,7FFF00,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q1727,Самарская область
+http://www.wikidata.org/entity/Q5971,Республика Алтай,7FFF00,http://www.wikidata.org/entity/Q960,Тыва
+http://www.wikidata.org/entity/Q6543,Хакасия,7FFF00,http://www.wikidata.org/entity/Q960,Тыва
+http://www.wikidata.org/entity/Q6809,Бурятия,7FFF00,http://www.wikidata.org/entity/Q960,Тыва
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q5400,Пермский край
+http://www.wikidata.org/entity/Q3734,Адыгея,7FFF00,http://www.wikidata.org/entity/Q3680,Краснодарский край
+http://www.wikidata.org/entity/Q3953,Калмыкия,7FFF00,http://www.wikidata.org/entity/Q3819,Волгоградская область
+http://www.wikidata.org/entity/Q3953,Калмыкия,7FFF00,http://www.wikidata.org/entity/Q3941,Астраханская область
+http://www.wikidata.org/entity/Q3953,Калмыкия,7FFF00,http://www.wikidata.org/entity/Q5118,Дагестан
+http://www.wikidata.org/entity/Q3953,Калмыкия,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5118,Дагестан,7FFF00,http://www.wikidata.org/entity/Q3953,Калмыкия
+http://www.wikidata.org/entity/Q5118,Дагестан,7FFF00,http://www.wikidata.org/entity/Q5187,Чечня
+http://www.wikidata.org/entity/Q5118,Дагестан,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5187,Чечня,7FFF00,http://www.wikidata.org/entity/Q5118,Дагестан
+http://www.wikidata.org/entity/Q5187,Чечня,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5187,Чечня,7FFF00,http://www.wikidata.org/entity/Q5219,Ингушетия
+http://www.wikidata.org/entity/Q5187,Чечня,7FFF00,http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания
+http://www.wikidata.org/entity/Q5219,Ингушетия,7FFF00,http://www.wikidata.org/entity/Q5187,Чечня
+http://www.wikidata.org/entity/Q5219,Ингушетия,7FFF00,http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания
+http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания,7FFF00,http://www.wikidata.org/entity/Q5187,Чечня
+http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания,7FFF00,http://www.wikidata.org/entity/Q5219,Ингушетия
+http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания,7FFF00,http://www.wikidata.org/entity/Q5267,Кабардино-Балкария
+http://www.wikidata.org/entity/Q5267,Кабардино-Балкария,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5267,Кабардино-Балкария,7FFF00,http://www.wikidata.org/entity/Q5237,Республика Северная Осетия-Алания
+http://www.wikidata.org/entity/Q5267,Кабардино-Балкария,7FFF00,http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия
+http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия,7FFF00,http://www.wikidata.org/entity/Q3680,Краснодарский край
+http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия,7FFF00,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q5328,Карачаево-Черкесия,7FFF00,http://www.wikidata.org/entity/Q5267,Кабардино-Балкария
+http://www.wikidata.org/entity/Q5422,Удмуртия,7FFF00,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q5422,Удмуртия,7FFF00,http://www.wikidata.org/entity/Q5400,Пермский край
+http://www.wikidata.org/entity/Q5446,Марий Эл,7FFF00,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q5466,Чувашия,7FFF00,http://www.wikidata.org/entity/Q5340,Мордовия
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5338,Оренбургская область
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5338,Оренбургская область
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5400,Пермский край
+http://www.wikidata.org/entity/Q15966495,Республика Крым,7FFF00,http://www.wikidata.org/entity/Q3680,Краснодарский край
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q5340,Мордовия,7FFF00,http://www.wikidata.org/entity/Q5466,Чувашия
+http://www.wikidata.org/entity/Q5340,Мордовия,7FFF00,http://www.wikidata.org/entity/Q5545,Пензенская область
+http://www.wikidata.org/entity/Q5340,Мордовия,7FFF00,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q5422,Удмуртия,7FFF00,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5422,Удмуртия,7FFF00,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5446,Марий Эл,7FFF00,http://www.wikidata.org/entity/Q5466,Чувашия
+http://www.wikidata.org/entity/Q5446,Марий Эл,7FFF00,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5466,Чувашия,7FFF00,http://www.wikidata.org/entity/Q5446,Марий Эл
+http://www.wikidata.org/entity/Q5466,Чувашия,7FFF00,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5466,Чувашия,7FFF00,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5422,Удмуртия
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5446,Марий Эл
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5466,Чувашия
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q5481,Татарстан,7FFF00,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5422,Удмуртия
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5710,Республика Башкортостан,7FFF00,http://www.wikidata.org/entity/Q5714,Челябинская область
+http://www.wikidata.org/entity/Q5971,Республика Алтай,7FFF00,http://www.wikidata.org/entity/Q5942,Алтайский край
+http://www.wikidata.org/entity/Q960,Тыва,7FFF00,http://www.wikidata.org/entity/Q5971,Республика Алтай
+http://www.wikidata.org/entity/Q960,Тыва,7FFF00,http://www.wikidata.org/entity/Q6543,Хакасия
+http://www.wikidata.org/entity/Q960,Тыва,7FFF00,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q960,Тыва,7FFF00,http://www.wikidata.org/entity/Q6585,Иркутская область
+http://www.wikidata.org/entity/Q960,Тыва,7FFF00,http://www.wikidata.org/entity/Q6809,Бурятия
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q2073,Республика Коми,7FFF00,http://www.wikidata.org/entity/Q6407,Ямало-Ненецкий автономный округ
+http://www.wikidata.org/entity/Q5971,Республика Алтай,7FFF00,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q5971,Республика Алтай,7FFF00,http://www.wikidata.org/entity/Q6543,Хакасия
+http://www.wikidata.org/entity/Q6543,Хакасия,7FFF00,http://www.wikidata.org/entity/Q5971,Республика Алтай
+http://www.wikidata.org/entity/Q6543,Хакасия,7FFF00,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q6543,Хакасия,7FFF00,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q6585,Иркутская область
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q6838,Забайкальский край
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q6886,Амурская область
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q7971,Магаданская область
+http://www.wikidata.org/entity/Q6605,Якутия,7FFF00,http://www.wikidata.org/entity/Q7984,Чукотский автономный округ
+http://www.wikidata.org/entity/Q6809,Бурятия,7FFF00,http://www.wikidata.org/entity/Q6585,Иркутская область
+http://www.wikidata.org/entity/Q6809,Бурятия,7FFF00,http://www.wikidata.org/entity/Q6838,Забайкальский край
+http://www.wikidata.org/entity/Q15966495,Республика Крым,7FFF00,http://www.wikidata.org/entity/Q7525,Севастополь
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q649,Москва
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q1759,Мурманская область,e87b7b,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q1759,Мурманская область,e87b7b,http://www.wikidata.org/entity/Q1914,Карелия
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q1759,Мурманская область
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q1914,Карелия
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q1914,Карелия
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q2191,Ленинградская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q2240,Новгородская область
+http://www.wikidata.org/entity/Q2191,Ленинградская область,e87b7b,http://www.wikidata.org/entity/Q656,Санкт-Петербург
+http://www.wikidata.org/entity/Q2191,Ленинградская область,e87b7b,http://www.wikidata.org/entity/Q1914,Карелия
+http://www.wikidata.org/entity/Q2191,Ленинградская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q2191,Ленинградская область,e87b7b,http://www.wikidata.org/entity/Q2218,Псковская область
+http://www.wikidata.org/entity/Q2191,Ленинградская область,e87b7b,http://www.wikidata.org/entity/Q2240,Новгородская область
+http://www.wikidata.org/entity/Q2218,Псковская область,e87b7b,http://www.wikidata.org/entity/Q2191,Ленинградская область
+http://www.wikidata.org/entity/Q2218,Псковская область,e87b7b,http://www.wikidata.org/entity/Q2240,Новгородская область
+http://www.wikidata.org/entity/Q2240,Новгородская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q2240,Новгородская область,e87b7b,http://www.wikidata.org/entity/Q2191,Ленинградская область
+http://www.wikidata.org/entity/Q2240,Новгородская область,e87b7b,http://www.wikidata.org/entity/Q2218,Псковская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q2218,Псковская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q2240,Новгородская область
+http://www.wikidata.org/entity/Q2347,Смоленская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2347,Смоленская область,e87b7b,http://www.wikidata.org/entity/Q2218,Псковская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q2596,Костромская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q2596,Костромская область,e87b7b,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q2654,Ивановская область,e87b7b,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q2702,Владимирская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2702,Владимирская область,e87b7b,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q2792,Тульская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q649,Москва
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q1697,Московская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q1727,Самарская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q1727,Самарская область
+http://www.wikidata.org/entity/Q5338,Оренбургская область,e87b7b,http://www.wikidata.org/entity/Q1727,Самарская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q1875,Архангельская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q2015,Вологодская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q2246,Нижегородская область
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q1727,Самарская область
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q2073,Республика Коми
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q2164,Ненецкий автономный округ
+http://www.wikidata.org/entity/Q6585,Иркутская область,e87b7b,http://www.wikidata.org/entity/Q960,Тыва
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2347,Смоленская область
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2702,Владимирская область
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2792,Тульская область
+http://www.wikidata.org/entity/Q1697,Московская область,e87b7b,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q1727,Самарская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q2596,Костромская область
+http://www.wikidata.org/entity/Q2218,Псковская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q2218,Псковская область,e87b7b,http://www.wikidata.org/entity/Q2347,Смоленская область
+http://www.wikidata.org/entity/Q2240,Новгородская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q2596,Костромская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q2654,Ивановская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q2702,Владимирская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q2347,Смоленская область
+http://www.wikidata.org/entity/Q2292,Тверская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q2347,Смоленская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q2347,Смоленская область,e87b7b,http://www.wikidata.org/entity/Q2810,Брянская область
+http://www.wikidata.org/entity/Q2347,Смоленская область,e87b7b,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q2292,Тверская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q2596,Костромская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q2654,Ивановская область
+http://www.wikidata.org/entity/Q2448,Ярославская область,e87b7b,http://www.wikidata.org/entity/Q2702,Владимирская область
+http://www.wikidata.org/entity/Q2596,Костромская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q2596,Костромская область,e87b7b,http://www.wikidata.org/entity/Q2654,Ивановская область
+http://www.wikidata.org/entity/Q2654,Ивановская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q2654,Ивановская область,e87b7b,http://www.wikidata.org/entity/Q2596,Костромская область
+http://www.wikidata.org/entity/Q2654,Ивановская область,e87b7b,http://www.wikidata.org/entity/Q2702,Владимирская область
+http://www.wikidata.org/entity/Q2702,Владимирская область,e87b7b,http://www.wikidata.org/entity/Q2448,Ярославская область
+http://www.wikidata.org/entity/Q2702,Владимирская область,e87b7b,http://www.wikidata.org/entity/Q2654,Ивановская область
+http://www.wikidata.org/entity/Q2702,Владимирская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q2702,Владимирская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q2792,Тульская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q3550,Тамбовская область
+http://www.wikidata.org/entity/Q2792,Тульская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q2792,Тульская область,e87b7b,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q2792,Тульская область,e87b7b,http://www.wikidata.org/entity/Q3129,Орловская область
+http://www.wikidata.org/entity/Q2792,Тульская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q2810,Брянская область,e87b7b,http://www.wikidata.org/entity/Q2347,Смоленская область
+http://www.wikidata.org/entity/Q2810,Брянская область,e87b7b,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q2810,Брянская область,e87b7b,http://www.wikidata.org/entity/Q3129,Орловская область
+http://www.wikidata.org/entity/Q2810,Брянская область,e87b7b,http://www.wikidata.org/entity/Q3178,Курская область
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q2347,Смоленская область
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q2792,Тульская область
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q2810,Брянская область
+http://www.wikidata.org/entity/Q2842,Калужская область,e87b7b,http://www.wikidata.org/entity/Q3129,Орловская область
+http://www.wikidata.org/entity/Q3129,Орловская область,e87b7b,http://www.wikidata.org/entity/Q2792,Тульская область
+http://www.wikidata.org/entity/Q3129,Орловская область,e87b7b,http://www.wikidata.org/entity/Q2810,Брянская область
+http://www.wikidata.org/entity/Q3129,Орловская область,e87b7b,http://www.wikidata.org/entity/Q2842,Калужская область
+http://www.wikidata.org/entity/Q3129,Орловская область,e87b7b,http://www.wikidata.org/entity/Q3178,Курская область
+http://www.wikidata.org/entity/Q3129,Орловская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q3178,Курская область,e87b7b,http://www.wikidata.org/entity/Q2810,Брянская область
+http://www.wikidata.org/entity/Q3178,Курская область,e87b7b,http://www.wikidata.org/entity/Q3129,Орловская область
+http://www.wikidata.org/entity/Q3178,Курская область,e87b7b,http://www.wikidata.org/entity/Q3329,Белгородская область
+http://www.wikidata.org/entity/Q3178,Курская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3178,Курская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q3329,Белгородская область,e87b7b,http://www.wikidata.org/entity/Q3178,Курская область
+http://www.wikidata.org/entity/Q3329,Белгородская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3178,Курская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3329,Белгородская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3550,Тамбовская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3573,Ростовская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q2792,Тульская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q3129,Орловская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q3178,Курская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3510,Липецкая область,e87b7b,http://www.wikidata.org/entity/Q3550,Тамбовская область
+http://www.wikidata.org/entity/Q3550,Тамбовская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q3550,Тамбовская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3550,Тамбовская область,e87b7b,http://www.wikidata.org/entity/Q3510,Липецкая область
+http://www.wikidata.org/entity/Q3573,Ростовская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3819,Волгоградская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q3819,Волгоградская область,e87b7b,http://www.wikidata.org/entity/Q3573,Ростовская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q3447,Воронежская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q3550,Тамбовская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q2596,Костромская область
+http://www.wikidata.org/entity/Q5545,Пензенская область,e87b7b,http://www.wikidata.org/entity/Q2753,Рязанская область
+http://www.wikidata.org/entity/Q5545,Пензенская область,e87b7b,http://www.wikidata.org/entity/Q3550,Тамбовская область
+http://www.wikidata.org/entity/Q1727,Самарская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q1727,Самарская область,e87b7b,http://www.wikidata.org/entity/Q5338,Оренбургская область
+http://www.wikidata.org/entity/Q1875,Архангельская область,e87b7b,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q2015,Вологодская область,e87b7b,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q5340,Мордовия
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q2596,Костромская область,e87b7b,http://www.wikidata.org/entity/Q5387,Кировская область
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q5340,Мордовия
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q3819,Волгоградская область
+http://www.wikidata.org/entity/Q3447,Воронежская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q3550,Тамбовская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q3573,Ростовская область,e87b7b,http://www.wikidata.org/entity/Q3680,Краснодарский край
+http://www.wikidata.org/entity/Q3573,Ростовская область,e87b7b,http://www.wikidata.org/entity/Q3819,Волгоградская область
+http://www.wikidata.org/entity/Q3573,Ростовская область,e87b7b,http://www.wikidata.org/entity/Q3953,Калмыкия
+http://www.wikidata.org/entity/Q3573,Ростовская область,e87b7b,http://www.wikidata.org/entity/Q5207,Ставропольский край
+http://www.wikidata.org/entity/Q3819,Волгоградская область,e87b7b,http://www.wikidata.org/entity/Q3941,Астраханская область
+http://www.wikidata.org/entity/Q3819,Волгоградская область,e87b7b,http://www.wikidata.org/entity/Q3953,Калмыкия
+http://www.wikidata.org/entity/Q3819,Волгоградская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q3941,Астраханская область,e87b7b,http://www.wikidata.org/entity/Q3819,Волгоградская область
+http://www.wikidata.org/entity/Q3941,Астраханская область,e87b7b,http://www.wikidata.org/entity/Q3953,Калмыкия
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q3819,Волгоградская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q5338,Оренбургская область
+http://www.wikidata.org/entity/Q5338,Оренбургская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q5400,Пермский край
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q5400,Пермский край
+http://www.wikidata.org/entity/Q5545,Пензенская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q5545,Пензенская область,e87b7b,http://www.wikidata.org/entity/Q5340,Мордовия
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q5334,Саратовская область
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q5340,Мордовия
+http://www.wikidata.org/entity/Q5714,Челябинская область,e87b7b,http://www.wikidata.org/entity/Q5338,Оренбургская область
+http://www.wikidata.org/entity/Q1727,Самарская область,e87b7b,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q1727,Самарская область,e87b7b,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q5446,Марий Эл
+http://www.wikidata.org/entity/Q2246,Нижегородская область,e87b7b,http://www.wikidata.org/entity/Q5466,Чувашия
+http://www.wikidata.org/entity/Q2753,Рязанская область,e87b7b,http://www.wikidata.org/entity/Q5545,Пензенская область
+http://www.wikidata.org/entity/Q3550,Тамбовская область,e87b7b,http://www.wikidata.org/entity/Q5545,Пензенская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q5545,Пензенская область
+http://www.wikidata.org/entity/Q5334,Саратовская область,e87b7b,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q5338,Оренбургская область,e87b7b,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5338,Оренбургская область,e87b7b,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5338,Оренбургская область,e87b7b,http://www.wikidata.org/entity/Q5714,Челябинская область
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q5422,Удмуртия
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q5446,Марий Эл
+http://www.wikidata.org/entity/Q5387,Кировская область,e87b7b,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q5714,Челябинская область
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q5741,Курганская область
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q5545,Пензенская область,e87b7b,http://www.wikidata.org/entity/Q5634,Ульяновская область
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q5466,Чувашия
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q5481,Татарстан
+http://www.wikidata.org/entity/Q5634,Ульяновская область,e87b7b,http://www.wikidata.org/entity/Q5545,Пензенская область
+http://www.wikidata.org/entity/Q5714,Челябинская область,e87b7b,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q5714,Челябинская область,e87b7b,http://www.wikidata.org/entity/Q5710,Республика Башкортостан
+http://www.wikidata.org/entity/Q5714,Челябинская область,e87b7b,http://www.wikidata.org/entity/Q5741,Курганская область
+http://www.wikidata.org/entity/Q5741,Курганская область,e87b7b,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q5741,Курганская область,e87b7b,http://www.wikidata.org/entity/Q5714,Челябинская область
+http://www.wikidata.org/entity/Q5741,Курганская область,e87b7b,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q5462,Свердловская область
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q5741,Курганская область
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q5835,Омская область
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q5835,Омская область,e87b7b,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q5835,Омская область,e87b7b,http://www.wikidata.org/entity/Q5851,Новосибирская область
+http://www.wikidata.org/entity/Q5835,Омская область,e87b7b,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q5851,Новосибирская область,e87b7b,http://www.wikidata.org/entity/Q5835,Омская область
+http://www.wikidata.org/entity/Q5851,Новосибирская область,e87b7b,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q5851,Новосибирская область,e87b7b,http://www.wikidata.org/entity/Q5942,Алтайский край
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q5824,Тюменская область
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q5835,Омская область
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q5851,Новосибирская область
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q5851,Новосибирская область
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q5884,Томская область
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q5942,Алтайский край
+http://www.wikidata.org/entity/Q5462,Свердловская область,e87b7b,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q5824,Тюменская область,e87b7b,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q5851,Новосибирская область,e87b7b,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q6076,Кемеровская область
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q6320,Ханты-Мансийский автономный округ — Югра
+http://www.wikidata.org/entity/Q5884,Томская область,e87b7b,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q5971,Республика Алтай
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q6543,Хакасия
+http://www.wikidata.org/entity/Q6076,Кемеровская область,e87b7b,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6585,Иркутская область,e87b7b,http://www.wikidata.org/entity/Q6563,Красноярский край
+http://www.wikidata.org/entity/Q6585,Иркутская область,e87b7b,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q6585,Иркутская область,e87b7b,http://www.wikidata.org/entity/Q6809,Бурятия
+http://www.wikidata.org/entity/Q6585,Иркутская область,e87b7b,http://www.wikidata.org/entity/Q6838,Забайкальский край
+http://www.wikidata.org/entity/Q6886,Амурская область,e87b7b,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q6886,Амурская область,e87b7b,http://www.wikidata.org/entity/Q6838,Забайкальский край
+http://www.wikidata.org/entity/Q6886,Амурская область,e87b7b,http://www.wikidata.org/entity/Q7730,Еврейская автономная область
+http://www.wikidata.org/entity/Q6886,Амурская область,e87b7b,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q7797,Сахалинская область,e87b7b,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q7797,Сахалинская область,e87b7b,http://www.wikidata.org/entity/Q7948,Камчатский край
+http://www.wikidata.org/entity/Q7971,Магаданская область,e87b7b,http://www.wikidata.org/entity/Q6605,Якутия
+http://www.wikidata.org/entity/Q7971,Магаданская область,e87b7b,http://www.wikidata.org/entity/Q7788,Хабаровский край
+http://www.wikidata.org/entity/Q7971,Магаданская область,e87b7b,http://www.wikidata.org/entity/Q7948,Камчатский край
+http://www.wikidata.org/entity/Q7971,Магаданская область,e87b7b,http://www.wikidata.org/entity/Q7984,Чукотский автономный округ
